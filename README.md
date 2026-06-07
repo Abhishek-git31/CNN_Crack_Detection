@@ -58,8 +58,6 @@ CNN_Crack_Detection/
 │   ├── model_comparison_chart.png
 │   └── gradcam_visualisation.png
 ├── model_comparison.csv
-├── requirements.txt
-└── README.md
 ```
 
 ---
